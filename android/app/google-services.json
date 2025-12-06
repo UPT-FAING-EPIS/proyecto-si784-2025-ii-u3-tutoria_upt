@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "416340531176",
+    "project_id": "bd-app-epis",
+    "storage_bucket": "bd-app-epis.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416340531176:android:08e4d704e15b0cfb40f65d",
+        "android_client_info": {
+          "package_name": "com.example.upt_tutoria_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0uL7j_XzNBJL7LeThGH_KzI8Dc62Np0M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
